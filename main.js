@@ -1,9 +1,7 @@
 song1 = "";
-song2
-
+song2="";
 function preload()
 {
-    song1 = loadSound("music.mp3");
     console.log("soundLoaded");
 }
 
